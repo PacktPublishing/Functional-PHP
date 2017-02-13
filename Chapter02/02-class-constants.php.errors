@@ -1,0 +1,11 @@
+<?php
+
+class A
+{
+    const FOO = uppercase('Hello World !');
+}
+
+// This will generate an error when parsing the file :
+// PHP Fatal error:  Constant expression contains invalid operations
+
+?>

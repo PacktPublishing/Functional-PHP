@@ -1,0 +1,19 @@
+<?php
+
+class A
+{
+    public const FOO = 'public const';
+
+    protected const BAR = 'protected const';
+
+    private const BAZ = 'private const';
+}
+
+// public constants are accessible as always
+echo A::FOO;
+
+// this will however generate an error
+echo A::BAZ;
+// PHP Fatal error: Uncaught Error: Cannot access private const A::BAR
+
+?>
