@@ -83,7 +83,7 @@ $my_closure = function() use($s) { echo $s; };
 
 $my_closure(); // display 'orange'
 
-$a = 'banana';
+$s = 'banana';
 
 $my_closure(); // still display 'orange'
 
