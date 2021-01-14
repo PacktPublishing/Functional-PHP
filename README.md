@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/functional-php/9781785880322)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1785880322).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Functional PHP
 This is the code repository for [Functional PHP](https://www.packtpub.com/application-development/functional-php?utm_source=github&utm_medium=repository&utm_campaign=9781785880322), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
